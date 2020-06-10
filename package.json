@@ -1,0 +1,29 @@
+{
+  "name": "homework10",
+  "version": "0.0.1",
+  "description": "UM Bootcamp Homework 10",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.1.0",
+    "jest": "^26.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK10.git"
+  },
+  "author": "Jorge Solis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK10/issues"
+  },
+  "homepage": "https://github.com/jrgsolis/MIA-COG-FSF-PT-03-2020-U-C-HOMEWORK10#readme"
+}
